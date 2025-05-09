@@ -63,5 +63,11 @@ Step 4: Right click on the second layer (view layer) and select mask.
 
 Step 5: Play the picture.
 
+## image
+
+![image](https://github.com/user-attachments/assets/f626a842-18fd-43c6-9c8a-08c90b98f6c5)
+
 
 ## OUTPUT:
+
+To create a motion tweening, shape tweening, guide layer and masking using Flash is verified
